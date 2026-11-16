@@ -2,7 +2,7 @@
 
 **QA Automation Engineer** no Rio de Janeiro. Construo frameworks de automação do zero com Playwright e TypeScript e hoje foco em **qualidade de software com IA**: garantir que agentes que escrevem e consertam testes façam isso direito.
 
-Pós-graduando em Ciência de Dados e Big Data (PUC Minas), levando métricas, avaliação e IA para a Engenharia de Qualidade.
+Pós-graduando em Ciência de Dados e Big Data, levando métricas, avaliação e IA para a Engenharia de Qualidade.
 
 ### Stack
 
